@@ -2,8 +2,13 @@ subject: Languages
 listing-order: 7
 icon: "/assets/img/globe.svg"
 contents:
-  - title: "Portuguese ('*Native*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "English: <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
-  - title: "Spanish: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
-  - title: "French: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
-  - title: "Italian: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
+  - title: Portuguese
+    description: Native
+  - title: English
+    description: C2. Proficient. 
+  - title: Spanish 
+    description: C2. Proficient. 
+  - title: French 
+    description: B1. Intermediate.
+  - title: Italian 
+    description: B1. Intermediate.

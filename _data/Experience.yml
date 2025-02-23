@@ -1,22 +1,24 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+  - title: Hotel Príncipe Lisboa 
+    role: Hospitality Receptionist 
+    date: May 2016 - December 2017
+    
+  - title: Lisbon São Bento Hotel
+    role: Hospitality Receptionist 
+    date: January 2018 - March 2018
+    
+  - title: Lismarketing - Turismo de Lisboa
+    role: Tourism Technician
+    date: March 2018 - July 2018
+
+  - title: Rent Experience, Lda An Altido Company
+    role: Operations Supervisor/ Operations Coordinator
+    date: August 2018 - September 2019
+
+  - title: ManPower Group Solutions/Concentrix, Lda.
+    role: Content Reviwer/Senior Quality Analyst
+    date: August 2019 - September 2024
+    

@@ -1,0 +1,27 @@
+title: Alexandre Guerra
+profile_img: /assets/img/profile.webp
+icon_img: /assets/img/icon.webp
+
+name: "Alexandre Guerra"
+job: "〈Quality Assurance Tester〉"
+
+phone_number: +351919546143
+address: Seixal, Portugal
+email: alexandre.guerra.ad8@gmail.com
+linkedin_username: https://www.linkedin.com/in/alexandre-moreira-guerra
+github_username: https://github.com/anger444ad8
+
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

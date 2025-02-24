@@ -2,44 +2,29 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Technical Skills  
+  - title: Technical Skills
     description: >
       Back/Front Office tasks and management
-      
-      Sales of Tours , Experiences and Accommodation
-      
+      Sales of Tours, Experiences and Accommodation
       Management of Online Channels/Websites
-      
       Reservations Management
-      
       Team Management
-      
-      Accomodation and Maintenance Management
-      
-      Operations Coordination and Supervision
-      
+      Accomodation and Maintenance
+      Management Operations
+      Coordination and Supervision
       Handling of Sensitive Information
-      
-      Android OS Applications Review
-      
-      Microsoft Office / Google Docs 
-      
+      Android OS
+      Applications Review
+      Microsoft Office / Google Docs
       Quality Assurance
-      
       Manual Testing Design
-      
       Manual Testing Execution
-      
       API Testing
-      
       Basic Knowledge on Test Automation
-      
       Defect Management
-      
       Basic Data Base Management
 
-    
-  - title: Tools
+  - title: Technologies
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg)
@@ -49,5 +34,4 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg)
     "

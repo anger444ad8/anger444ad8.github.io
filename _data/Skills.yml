@@ -14,9 +14,8 @@ contents:
         <li>Management Operations</li>
         <li>Coordination and Supervision</li>
         <li>Handling of Sensitive Information</li>
-        <li>Android OS</li>
-        <li>Applications Review</li>
-        <li>Microsoft Office / Google Docs</li>
+        <li>Android OS Applications Review</li>
+         <li>Microsoft Office / Google Docs</li>
         <li>Quality Assurance</li>
         <li>Manual Testing Design</li>
         <li>Manual Testing Execution</li>
@@ -25,6 +24,7 @@ contents:
         <li>Defect Management</li>
         <li>Basic Data Base Management</li>
       </ul>
+        
 
   - title: Technologies
     description: "
@@ -36,4 +36,5 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg)
+       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg")
     "

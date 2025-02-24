@@ -3,26 +3,28 @@ listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Technical Skills
-    description: >
-      Back/Front Office tasks and management
-      Sales of Tours, Experiences and Accommodation
-      Management of Online Channels/Websites
-      Reservations Management
-      Team Management
-      Accomodation and Maintenance
-      Management Operations
-      Coordination and Supervision
-      Handling of Sensitive Information
-      Android OS
-      Applications Review
-      Microsoft Office / Google Docs
-      Quality Assurance
-      Manual Testing Design
-      Manual Testing Execution
-      API Testing
-      Basic Knowledge on Test Automation
-      Defect Management
-      Basic Data Base Management
+    description: |
+      <ul>
+        <li>Back/Front Office tasks and management</li>
+        <li>Sales of Tours, Experiences and Accommodation</li>
+        <li>Management of Online Channels/Websites</li>
+        <li>Reservations Management</li>
+        <li>Team Management</li>
+        <li>Accomodation and Maintenance</li>
+        <li>Management Operations</li>
+        <li>Coordination and Supervision</li>
+        <li>Handling of Sensitive Information</li>
+        <li>Android OS</li>
+        <li>Applications Review</li>
+        <li>Microsoft Office / Google Docs</li>
+        <li>Quality Assurance</li>
+        <li>Manual Testing Design</li>
+        <li>Manual Testing Execution</li>
+        <li>API Testing</li>
+        <li>Basic Knowledge on Test Automation</li>
+        <li>Defect Management</li>
+        <li>Basic Data Base Management</li>
+      </ul>
 
   - title: Technologies
     description: "

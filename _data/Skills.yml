@@ -5,12 +5,16 @@ contents:
   - title: Technical Skills
     description: |
       <ul>
-        <li>Test Design</li>
-        <li>Functional Testing Execution</li>
+
+        <li>Requirements Analysis</li>
+        <li>Test Planning and Test Case Design</li>
+        <li>Manual Testing</li>
+        <li>Bug Reporting and Documentation</li>
+        <li>Regression Testing</li>
+        <li>Usability Testing</li>
         <li>API Testing</li>
-        <li>Defect Report and Tracking</li>
         <li>Basic Test Automation Knowledge</li>
-        <li>Data Base Management</li>
+        <li>Data Base Querying</li>
         <li>Basic Python Knowledge</li>
         <li>Quality Assurance of Content Policies and Compliance</li>
         <li>Quality Auditing</li>
@@ -34,9 +38,6 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg)
       ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/512px-YouTrack_Icon.svg.png?20200803082248)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg)
